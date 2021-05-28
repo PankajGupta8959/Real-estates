@@ -1,0 +1,13 @@
+DIfferent Output
+
+1.Decison Tree
+    Mean : 4.288076660690665
+    Standard Deviation : 0.7973843005550715
+    
+2.LinearRegression 
+    Mean : 5.035125840893465
+    Standard Deviation : 1.0596901516715453
+
+3. Random Forest regressor   
+    Mean : 3.344733459052365
+    Standard Deviation : 0.6888089128222755
